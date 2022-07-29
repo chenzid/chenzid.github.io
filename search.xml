@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>这是一场意外</title>
+      <link href="/2022/07/29/test/"/>
+      <url>/2022/07/29/test/</url>
+      
+        <content type="html"><![CDATA[<p>我要怎么说你才能明白</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> CTF </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/07/29/hello-world/"/>
       <url>/2022/07/29/hello-world/</url>
